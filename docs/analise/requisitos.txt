@@ -1,7 +1,10 @@
-   RF - 01  Cadastro de cliente, o sistema deve  permitir que o usuário
-realize um cadastro  para que seja possível a compra de produtos com 
+   RF - 01  Cadastro de cliente, o sistema deve  permitir que o usuï¿½rio
+realize um cadastro  para que seja possï¿½vel a compra de produtos com 
 os seguintes campos:Nome, email, senha.
 
- RF - 01  Cadastro de cliente, o sistema deve  permitir que o usuário
-realize um cadastro  para que seja possível a compra de produtos com 
+ RF - 01  Cadastro de cliente, o sistema deve  permitir que o usuï¿½rio
+realize um cadastro  para que seja possï¿½vel a compra de produtos com 
 os seguintes campos:Nome, email, senha.
+
+
+teste do git
